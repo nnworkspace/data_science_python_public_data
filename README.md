@@ -14,7 +14,7 @@ Stuttgart | 48°47′N  | 9°11′E |  | 623,738 | Germany
 Vienna | 48°12′N | 16°22′E |   | 1,867,960 | Austria
 Qiqihar | 47°21′N | 123°55′E |    | 5,357,003 | China
 Bellingham | 48°45′1″N | 122°28′30″W |   | 80,885 | USA
-Quebec City | 46°49′N 71°13′W |    | 531,902 | Canada
+Quebec City | 46°49′N | 71°13′W |    | 531,902 | Canada
 Paris | 48°51′24″N | 2°21′03″E |    |  2,229,621 | France
 
 
