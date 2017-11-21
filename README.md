@@ -34,4 +34,12 @@ Paris | 48°51′24″N | 2°21′03″E |  81.85  |  2,229,621 | France
 I chose the unit of "Metric" when I downloaded the data. So that the values of temperatures, precipitation and snow depth in the tables are all in millimetre, not tenth of millimetre.  
 
 
+### Comment on the choice of plot types for each subplot
+
+Subplot  | Plot Type | Reason
+---------|-----------|--------
+average daily temperatures | line plot | Intuitive choice for a sequence that only has mild difference between consecutive two days
+average aggregated monthly precipitation | bar plot | Tried line plot, but, when six cities are plotted on the same chart, this line plot is ugly and difficult to read because of many wild intersections between the lines. So I chose bar plot at the end. 
+average daily snow depth | line plot | Similar to the "average daily temperatures" plot. The trick here is, snows depth is very different from precipitation. Because snow depth doesn't reset to zero when a day ends, while precipitation can be measured from zero on a new measure time point. So the snow depth has much more continuity over days than the amount of daily rain water.  
+
 * This is the assignment project of the Online Course *Applied Plotting, Charting & Data Representation in Python*
