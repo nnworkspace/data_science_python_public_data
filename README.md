@@ -40,6 +40,6 @@ Subplot  | Plot Type | Reason
 ---------|-----------|--------
 average daily temperatures | line plot | Intuitive choice for a sequence that only has mild difference between consecutive two days
 average aggregated monthly precipitation | bar plot | Tried line plot, but, when six cities are plotted on the same chart, this line plot is ugly and difficult to read because of many wild intersections between the lines. So I chose bar plot at the end. 
-average daily snow depth | line plot | Similar to the "average daily temperatures" plot. The trick here is, snows depth is very different from precipitation. Because snow depth doesn't reset to zero when a day ends, while precipitation can be measured from zero on a new measure time point. So the snow depth has much more continuity over days than the amount of daily rain water.  
+average daily snow depth | line plot | Similar to the "average daily temperatures plot". The trick here is, snows depth is very different from precipitation. Because snow depth doesn't reset to zero when a day ends, while precipitation can be measured from zero on a new measure time point. So the snow depth has much more continuity over days than the amount of daily rain water. Aggregating daily value over a month for snow depth does not make sense. 
 
 * This is the assignment project of the Online Course *Applied Plotting, Charting & Data Representation in Python*
