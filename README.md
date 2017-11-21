@@ -1,4 +1,4 @@
-# Project *Weather Phenomena for the region of Stuttgart, Baden-Württemberg Region, Germany*
+# Project *Weather Phenomena of Stuttgart, Baden-Württemberg Region, Germany*
 
 ## Comparision of Temperature, Precipitation and Snow Depth of Six Cities near the latitude of 48°47′N (where Stuttgart lies)
 
