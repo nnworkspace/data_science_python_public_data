@@ -13,7 +13,7 @@ On the plots, groups of data under comparisons are
 * Average daily snow depth (mm)
 
 
-Cities under comparision are: 
+Cities under comparison are: 
 
 City | Latitude | Altitude | Elevation (m) | Populoation | Country
 -----|---------:|---------:|----------:|-----------:|-----------|
