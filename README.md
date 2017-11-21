@@ -1,10 +1,17 @@
 # Project *Weather Phenomena for the region of Stuttgart, Baden-Württemberg Region, Germany*
 
-## Comparision of Daily Average Temperature, Precipitation and Snow Depth of Six Cities near the latitude of 48°47′N (where Stuttgart lies)
+## Comparision of Temperature, Precipitation and Snow Depth of Six Cities near the latitude of 48°47′N (where Stuttgart lies)
 
 ### Introduction
 
-As a citizen of Stuttgart, I would like to compare the data of daily average temperature, precipitation and snow depth of six cities which lie close to the same latitude of Stuttgart. 
+As a citizen of Stuttgart, I would like to compare the weather data of cities which lie at the similar latitudes of Stuttgart. 
+
+On the plots, groups of data under comparisons are
+
+* Average daily temperatures in Celsius
+* Average aggregated monthly precipitation (mm)
+* Average daily snow depth (mm)
+
 
 Cities under comparision are: 
 
